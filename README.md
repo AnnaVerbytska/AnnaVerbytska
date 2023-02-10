@@ -1,7 +1,7 @@
 ### Hi there 👋 ! Welcome to my Github profile.       [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/annaverbytska/)
 
-- 🔭 I’m currently working at Alcon as Healtchare Integration Architect. 
-- 🌱 I’m currently learning Machine Learning. I believe it is the future of Healthcare 🤔
+- 🔭 I’m currently working on the VW project at the Martin Luther University Halle-Wittenberg. 
+- 🌱 I’m currently learning Natural Language Programming for Analysis of Language in Media. 
 - 👯 Whenever I have time I join Kaggle Competitions. 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfonrodrisimon&layout=compact)
