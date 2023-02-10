@@ -1,4 +1,4 @@
-### Hi there 👋 ! Welcome to my Github profile.       [![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/annaverbytska/])
+### Hi there 👋 ! Welcome to my Github profile.       [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/annaverbytska/)
 
 - 🔭 I’m currently working at Alcon as Healtchare Integration Architect. 
 - 🌱 I’m currently learning Machine Learning. I believe it is the future of Healthcare 🤔
