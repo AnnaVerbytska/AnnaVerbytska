@@ -6,7 +6,7 @@ My academic background [![ORCID](https://img.shields.io/badge/ORCID-0000-0002-44
 
 This is a description of my project.
 
-- 🔭 I've worked on two VW Foundation projects (2022-2024) at the Martin Luther University Halle-Wittenberg (two project repositories are in private status currently)
+- 🔭 I've worked on two Volkswagen Foundation projects (2022-2024) at the Martin Luther University Halle-Wittenberg (two project repositories are in private status currently)
 - 🌱 I’m learning Natural Language Programming in Python for Analysis of Language in Media. 
 - 👯 Whenever I have time I join Kaggle Competitions. 
 
