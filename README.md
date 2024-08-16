@@ -1,4 +1,4 @@
-### Hi there 👋 ! Welcome to my Github profile.      
+### Hi there 👋 ! Welcome to my GitHub profile.      
 
 Let's stay connected! [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/annaverbytska/)
 
