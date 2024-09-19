@@ -8,7 +8,7 @@ My academic background [![ORCID](https://img.shields.io/badge/ORCID-0000-0002-44
 
 🌱 I’m learning Natural Language Programming in Python for Analysis of Language in Media. 
 
-👯 Whenever I have time I join Kaggle Competitions. 
+👯 Whenever I have time, I join Kaggle Competitions. 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfonrodrisimon&layout=compact)
 
