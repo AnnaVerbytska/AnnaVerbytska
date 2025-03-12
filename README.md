@@ -1,6 +1,6 @@
 ### Hi there 👋 ! Welcome to my GitHub profile.     
 
-My work bridges *linguistics*, AI, and computational social sciences, focusing on how language shapes perception in the media.
+My work bridges *linguistics*, *AI*, and *computational social sciences*, focusing on how language shapes perception in the media.
 
 Let's stay connected! [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/annaverbytska/)
 
