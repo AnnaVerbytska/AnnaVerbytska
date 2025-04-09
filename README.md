@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" alt="Code Like a Girl" height="200">
+  <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" alt="Woman Coding and Drinking Coffee" height="250">
 </div>
 
 
