@@ -8,5 +8,9 @@ My academic background [![ORCID](https://img.shields.io/badge/ORCID-0000-0002-44
 
 👯 Whenever I have time, I join Kaggle Competitions. 
 
-<img align="middle" src="https://github-readme-stats.AnnaVerbytska.vercel.app/api/top-langs/?username=AnnaVerbytska;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
-
+<br><br>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AnnaVerbytska;theme=dark&amp;hide_border=false"> 
+</td><td width="50%" align="center">
+  <img align="middle" src="https://github-readme-stats.AnnaVerbytska.vercel.app/api/top-langs/?username=AnnaVerbytska;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
+  </td>
+</tr>
