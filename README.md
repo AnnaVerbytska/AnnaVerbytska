@@ -1,3 +1,5 @@
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
 ### Hi there 👋 ! Welcome to my GitHub profile.     
 
 My work bridges *linguistics*, *AI*, and *computational social sciences*, focusing on how language shapes perception in the media.
