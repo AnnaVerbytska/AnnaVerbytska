@@ -1,5 +1,6 @@
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-
+<div align="center">
+    <img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" alt="Code Like a Girl" height="200">
+</div>
 ### Hi there 👋 ! Welcome to my GitHub profile.     
 
 My work bridges *linguistics*, *AI*, and *computational social sciences*, focusing on how language shapes perception in the media.
