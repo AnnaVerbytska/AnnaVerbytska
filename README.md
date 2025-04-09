@@ -1,6 +1,11 @@
-<div align="center">
-  <img src="https://media.tenor.com/0wv3uK1zEQ0AAAAC/laptop-user-joypixels.gif" alt="Woman using laptop" height="250">
+<div class="tenor-gif-embed" data-postid="17335820" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+  <a href="https://tenor.com/view/laptop-user-joypixels-laptop-on-my-laptop-using-my-laptop-gif-17335820">
+    Laptop User Joypixels Sticker
+  </a>
+  from <a href="https://tenor.com/search/laptop+user-stickers">Laptop User Stickers</a>
 </div>
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 
 ### Hi there 👋 ! Welcome to my GitHub profile.     
