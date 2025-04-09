@@ -4,7 +4,6 @@
   </a>
   from <a href="https://tenor.com/search/laptop+user-stickers">Laptop User Stickers</a>
 </div>
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 
