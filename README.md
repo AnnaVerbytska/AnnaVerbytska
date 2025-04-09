@@ -8,6 +8,5 @@ My academic background [![ORCID](https://img.shields.io/badge/ORCID-0000-0002-44
 
 👯 Whenever I have time, I join Kaggle Competitions. 
 
-<p>&nbsp;<img align="middle" src="https://github-readme-stats.vercel.app/api?username=AnnaVerbytska&amp;show_icons=true" alt="AnnaVerbytska"></p>
-<p align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaVerbytska&amp;layout=compact&amp;hide=html" alt="AnnaVerbytska"></p>
 
