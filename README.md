@@ -1,5 +1,5 @@
 <div align="center">
-  <lottie-player src="https://assets6.lottiefiles.com/packages/lf20_tutvdkg0.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop autoplay></lottie-player>
+  <img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" alt="Code Like a Girl" height="200">
 </div>
 
 
