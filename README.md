@@ -10,4 +10,3 @@ My academic background [![ORCID](https://img.shields.io/badge/ORCID-0000-0002-44
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaVerbytska&layout=compact)
