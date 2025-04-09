@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" alt="Woman Coding and Drinking Coffee" height="250">
+</div>
 
 ### Hi there 👋 ! Welcome to my GitHub profile.     
 
